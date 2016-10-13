@@ -1,4 +1,4 @@
-# Selectors and relationships
+# Selectors and relationships  complete 2016.10.13
 
 ## Instructions
 
