@@ -49,6 +49,7 @@ a.disabled {
 /*12. Any `h4` that is a direct child of grandparent should have a 1px border with rounded corners.*/
 .grandparent>h4 {
   border: 1px solid #e23f22;
+  border-radius: 1em;
 }
 
 /*13. Elements with a class of `promo` should have bold text that is also colored gold.*/
